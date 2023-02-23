@@ -96,3 +96,15 @@ div{
     width: 1127px;
     filter: drop-shadow(8px 8px 10px gray); 
 }
+.footer-clean {
+    padding:50px 0;
+    background-color:#fff;
+    color:#4b4c4d;
+  }
+  
+  .footer-clean h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+  }
