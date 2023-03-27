@@ -76,13 +76,13 @@ img {
 
 .nav-items a {
     color: black;
-    letter-spacing: 1.2px;
+    letter-spacing: 1px;
 
 }
 
 .nav-items:first-child{
-    margin-right: 3rem;
-    margin-left: 3rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
 }
 
 div{
@@ -102,3 +102,7 @@ div{
     font-weight:bold;
     font-size:16px;
   }
+
+a{
+    color: black;
+}
